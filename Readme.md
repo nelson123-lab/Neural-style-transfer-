@@ -23,3 +23,6 @@ Steps involved in process:-
 7. Optimize the input image: Use an optimization algorithm to minimize the total loss and update the input image iteratively.
 
 8. Output the stylized image: Output the final stylized image that combines the content of the content image with the style of the style image.
+
+References:
+https://www.tensorflow.org/tutorials/generative/style_transfer
